@@ -8,7 +8,7 @@
   "dependencies": {
     "@ikeastock/analytics": "^1.3.1",
     "@ikeastock/api": "^1.2.0",
-    "next": "^12.3.1",
+    "next": "^15.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "sharp": "^0.31.0",
